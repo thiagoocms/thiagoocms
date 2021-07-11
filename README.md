@@ -28,3 +28,8 @@ E estou me capacitando para me tornar um <b> Software Developer </b>.
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thiagoocms&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="" />
 </p>
+
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thiagoocms" alt="Thiago Cavalcante" /> </p>
