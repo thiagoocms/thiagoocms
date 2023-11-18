@@ -12,7 +12,7 @@
 Me chamo <b> Thiago Cavalcante </b>.
 </p>
 Atualmente moro em Recife-PE <br />
-E estou me capacitando para me tornar um <b> Desenvolvedor de Software </b>.
+E sou <b> Desenvolvedor de Software </b> na MV Sistemas.
 </p>
 <a href="https://www.linkedin.com/in/thiago-cavalcante-mendes-da-silva-46a767209/" target="_blank">
   <img align = "right" src = "https://i.ibb.co/Kx2GSrT/linkedin.png" width = "48px" height = "48px">
@@ -25,7 +25,7 @@ E estou me capacitando para me tornar um <b> Desenvolvedor de Software </b>.
 <p>
   <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoocms&layout=compact&theme=graywhite&title_color=268bd2" alt = "Thiago Cavalcante" />
 </p>
-<p> & nbsp;
+<p> 
   <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=thiagoocms&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt = "" />
 </p>
 
