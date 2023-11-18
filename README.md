@@ -29,7 +29,13 @@ E sou <b> Desenvolvedor de Software </b> na MV Sistemas.
   <img align = "center" height = "150em" src = "https://github-readme-stats.vercel.app/api?username=thiagoocms&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt = "" />
 </p>
 
+<br/>
 
+<div align="center">
+  
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
 
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=thiagoocms" alt = "Thiago Cavalcante" /> </p>
