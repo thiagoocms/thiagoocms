@@ -14,7 +14,7 @@ Me chamo <b> Thiago Cavalcante </b>.
 Atualmente moro em Recife-PE <br />
 E sou <b> Desenvolvedor de Software </b> na MV Sistemas.
 </p>
-<a href="https://www.linkedin.com/in/thiago-cavalcante-mendes-da-silva-46a767209/" target="_blank">
+<a href="https://www.linkedin.com/in/thiago-cavalcante-46a767209/" target="_blank">
   <img align = "right" src = "https://i.ibb.co/Kx2GSrT/linkedin.png" width = "48px" height = "48px">
 </a>
 
