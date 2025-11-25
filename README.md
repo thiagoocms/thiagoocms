@@ -12,7 +12,7 @@
 Me chamo <b> Thiago Cavalcante </b>.
 </p>
 Atualmente moro em Recife-PE <br />
-E sou <b> Desenvolvedor de Software </b> na CWI Software.
+E sou <b> Desenvolvedor de Software </b> na Bradesco.
 </p>
 <a href="https://www.linkedin.com/in/thiagoocms/" target="_blank">
   <img align = "right" src = "https://i.ibb.co/Kx2GSrT/linkedin.png" width = "48px" height = "48px">
